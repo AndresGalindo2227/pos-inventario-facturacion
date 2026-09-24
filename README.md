@@ -42,7 +42,7 @@ El seguimiento del proyecto se gestiona en GitHub Projects, con las columnas:
 
 y un campo personalizado de **Prioridad** (Alta / Media / Baja).
 
-🔗 **Tablero:** (https://github.com/AndresGalindo2227/pos-inventario-facturacion.git)
+🔗 **Tablero:** (https://github.com/users/AndresGalindo2227/projects/4)
 
 ## 🎬 Video de Presentación
 
