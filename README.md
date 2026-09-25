@@ -46,4 +46,21 @@ y un campo personalizado de **Prioridad** (Alta / Media / Baja).
 
 ## 🎬 Video de Presentación
 
-_(enlace del video)_
+_(https://drive.google.com/file/d/1ikqT4gVnxnSo4dEZ2NtQ-K7CE3UvVpff/view?usp=sharing)_
+
+## Sprint 1 — Plan
+
+**Fecha de inicio:** 24 de septiembre de 2026
+**Fecha de fin estimada:** 08 de octubre de 2026
+
+**Historias de Usuario seleccionadas para este sprint:**
+
+- **HU-01** — Login de usuario
+- **HU-02** — Gestión de roles y permisos
+- **HU-03** — Registro y administración de usuarios del sistema
+- **HU-06** — Registro y catálogo de productos
+- **HU-07** — Control de stock e inventario en tiempo real
+
+**Criterio de selección:**
+
+Se eligieron estas 5 historias porque pertenecen a las dos primeras épicas del proyecto (Autenticación y Núcleo del Negocio) y son **prerrequisito funcional** de todo lo demás: sin login ni roles no se puede controlar quién factura o quién administra inventario, y sin el catálogo de productos y el control de stock no existe base para implementar el punto de venta ni la facturación (HU-09 y HU-10, planificadas para el Sprint 2). Priorizar la cimentación del sistema reduce el riesgo de tener que rehacer trabajo más adelante.
