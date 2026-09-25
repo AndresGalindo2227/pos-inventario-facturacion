@@ -64,3 +64,15 @@ _(https://drive.google.com/file/d/1ikqT4gVnxnSo4dEZ2NtQ-K7CE3UvVpff/view?usp=sha
 **Criterio de selección:**
 
 Se eligieron estas 5 historias porque pertenecen a las dos primeras épicas del proyecto (Autenticación y Núcleo del Negocio) y son **prerrequisito funcional** de todo lo demás: sin login ni roles no se puede controlar quién factura o quién administra inventario, y sin el catálogo de productos y el control de stock no existe base para implementar el punto de venta ni la facturación (HU-09 y HU-10, planificadas para el Sprint 2). Priorizar la cimentación del sistema reduce el riesgo de tener que rehacer trabajo más adelante.
+
+## Progreso del Proyecto
+
+| Sprint | Estado |
+|---|---|
+| Sprint 1 | ✅ Completado |
+| Sprint 2 | ⏳ Por iniciar |
+| Sprint 3 | ⏳ Por iniciar |
+
+📄 Informe detallado del Sprint 1: [INFORME-SPRINT1.md](./INFORME-SPRINT1.md)
+
+**Estado actual del tablero:** de las 15 historias de usuario planificadas, 2 están completadas (HU-01, HU-06), 1 en revisión (HU-02), 2 en progreso (HU-03, HU-07) y 10 en backlog, pendientes para los próximos sprints.
